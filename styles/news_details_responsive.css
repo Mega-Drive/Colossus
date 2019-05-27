@@ -1,0 +1,362 @@
+@charset "utf-8";
+/* CSS Document */
+
+/******************************
+
+[Table of Contents]
+
+1. 1600px
+2. 1440px
+3. 1280px
+4. 1199px
+5. 1024px
+6. 991px
+7. 959px
+8. 880px
+9. 768px
+10. 767px
+11. 539px
+12. 479px
+13. 400px
+
+******************************/
+
+/************
+1. 1600px
+************/
+
+@media only screen and (max-width: 1600px)
+{
+	.link_box_content
+	{
+		padding-left: 110px;
+	}
+}
+
+/************
+2. 1440px
+************/
+
+@media only screen and (max-width: 1440px)
+{
+	
+}
+
+/************
+3. 1380px
+************/
+
+@media only screen and (max-width: 1380px)
+{
+	
+}
+
+/************
+3. 1280px
+************/
+
+@media only screen and (max-width: 1280px)
+{
+	
+}
+
+/************
+4. 1199px
+************/
+
+@media only screen and (max-width: 1199px)
+{
+	.home_content
+	{
+		
+	}
+	.cta_content
+	{
+		padding-left: 70px;
+	}
+	.cta_link
+	{
+		padding-left: 70px;
+	}
+	.newsletter_content
+	{
+		padding-left: 0px;
+	}
+	.newsletter_form_wrap
+	{
+		padding-left: 40px;
+	}
+	.link_box_content
+	{
+		padding-left: 60px;
+		padding-right: 60px;
+	}
+	.footer_content
+	{
+		padding-left: 0px;
+	}
+	.footer_contact
+	{
+		padding-left: 0;
+	}
+}
+
+/************
+4. 1100px
+************/
+
+@media only screen and (max-width: 1100px)
+{
+	
+}
+
+/************
+5. 1024px
+************/
+
+@media only screen and (max-width: 1024px)
+{
+	
+}
+
+/************
+6. 991px
+************/
+
+@media only screen and (max-width: 991px)
+{
+	.header_wrap
+	{
+		padding-left: 30px;
+		padding-right: 50px;
+	}
+	.main_nav,
+	.log_in
+	{
+		display: none !important;
+	}
+	.menu_button
+	{
+		display: block;
+	}
+	.home_title
+	{
+		font-size: 48px;
+	}
+	.home_content
+	{
+		
+	}
+	.sidebar
+	{
+		padding-top: 118px;
+	}
+	.newsletter_wrap
+	{
+		height: 360px;
+	}
+	.newsletter_content
+	{
+		width: 100%;
+		padding-left: 0px;
+	}
+	.newsletter_form_wrap
+	{
+		width: 100%;
+		padding-left: 0px;
+		margin-top: 30px;
+	}
+	.newsletter_content > div,
+	.newsletter_content p
+	{
+		max-width: 100%;
+	}
+	.link_box_content
+	{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.link_box_title h2
+	{
+		font-size: 24px;
+	}
+	.footer_wrap
+	{
+		padding-top: 118px;
+		padding-bottom: 118px;
+	}
+	.background_map
+	{
+		width: 550px;
+		height: 550px;
+	}
+	.footer_contact
+	{
+		margin-top: 104px;
+	}
+}
+
+/************
+7. 959px
+************/
+
+@media only screen and (max-width: 959px)
+{
+	
+}
+
+/************
+8. 880px
+************/
+
+@media only screen and (max-width: 880px)
+{
+	
+}
+
+/************
+9. 768px
+************/
+
+@media only screen and (max-width: 768px)
+{
+	
+}
+
+/************
+10. 767px
+************/
+
+@media only screen and (max-width: 767px)
+{
+	.menu_nav_wrap,
+	.menu_info_wrap
+	{
+		padding-left: 30px;
+	}
+	.home_content
+	{
+		padding-left: 30px;
+	}
+	.cta_wrap
+	{
+		height: 294px;
+	}
+	.cta_content
+	{
+		width: 100%;
+		padding-left: 0px;
+	}
+	.cta_link
+	{
+		width: 100%;
+		padding-left: 0px;
+		margin-top: 25px;
+	}
+	.footer_bar_wrap
+	{
+		height: auto;
+		padding-top: 25px;
+		padding-bottom: 30px;
+	}
+	.copyright
+	{
+		margin-top: 18px;
+	}
+}
+
+/************
+11. 575px
+************/
+
+@media only screen and (max-width: 575px)
+{
+	.menu_nav_wrap
+	{
+		width: 50% !important;
+	}
+	.menu_image_wrap
+	{
+		width: 50% !important;
+	}
+	.menu_info_wrap
+	{
+		display: none;
+	}
+	.menu_button_wrap
+	{
+		padding-right: 40px;
+	}
+	.menu_button
+	{
+		font-size: 14px;
+		width: 59px;
+		height: 34px;
+		line-height: 34px;
+	}
+	.button
+	{
+		width: 127px;
+		height: 42px;
+	}
+	.button a
+	{
+		line-height: 42px;
+		font-size: 12px;
+	}
+	.home_content
+	{
+		height: 325px;
+		padding-left: 15px;
+		padding-bottom: 55px;
+	}
+	.home_title
+	{
+		font-size: 32px;
+	}
+	.home_subtitle
+	{
+		font-size: 18px;
+	}
+	.read_comments,
+	.submit_comment
+	{
+		margin-top: 99px;
+	}
+}
+
+/************
+11. 539px
+************/
+
+@media only screen and (max-width: 539px)
+{
+	
+}
+
+/************
+12. 480px
+************/
+
+@media only screen and (max-width: 480px)
+{
+	
+}
+
+/************
+13. 479px
+************/
+
+@media only screen and (max-width: 479px)
+{
+	
+}
+
+/************
+14. 400px
+************/
+
+@media only screen and (max-width: 400px)
+{
+	
+}
